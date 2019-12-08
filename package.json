@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-bytetime",
   "version": "10.1.30",
   "nbbpm": {
     "compatibility": "^1.13.0"
   },
-  "description": "Persona theme for NodeBB",
+  "description": "ByteTime theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/gariasf/nodebb-theme-bytetime"
   },
   "keywords": [
     "nodebb",
@@ -32,11 +32,16 @@
       "name": "Barış Soner Uşaklı",
       "email": "baris@designcreateplay.com",
       "url": "https://github.com/barisusakli"
+    },
+    {
+      "name": "Guillem Arias",
+      "email": "hello@gariasf.com",
+      "url": "https://github.com/gariasf"
     }
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/gariasf/nodebb-theme-bytetime/issues"
   },
   "dependencies": {
     "pulling": "^2.0.0",
