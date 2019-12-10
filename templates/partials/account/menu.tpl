@@ -1,6 +1,6 @@
 <div class="btn-group account-fab bottom-sheet">
 	<button type="button" class="fab dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-		<i class="fa fa-ellipsis-v"></i>
+		<i class="mdi mdi-dots-vertical"></i>
 	</button>
 	<ul class="dropdown-menu dropdown-menu-right">
 		<!-- IF loggedIn -->

@@ -28,8 +28,8 @@
 				<tr>
 					<th>[[flags:state]]</th>
 					<th></th>
-					<th><span class="hidden-xs">[[flags:reporter]] </span><i class="fa fa-user-plus"></i></th>
-					<th><span class="hidden-xs">[[flags:reported-at]] </span><i class="fa fa-clock-o"></i></th>
+					<th><span class="hidden-xs">[[flags:reporter]] </span><i class="mdi mdi-account-plus"></i></th>
+					<th><span class="hidden-xs">[[flags:reported-at]] </span><i class="mdi mdi-clock-outline"></i></th>
 				</tr>
 			</thead>
 			<tbody>

@@ -16,7 +16,7 @@
 						<!-- ENDIF !../current -->
 						<!-- ENDIF isSelfOrAdminOrGlobalModerator -->
 						{function.userAgentIcons}
-						<i class="fa fa-circle text-<!-- IF ../current -->success<!-- ELSE -->muted<!-- ENDIF ../current -->"></i>
+						<i class="mdi mdi-cicle text-<!-- IF ../current -->success<!-- ELSE -->muted<!-- ENDIF ../current -->"></i>
 					</div>
 					{../browser} {../version} on {../platform}<br />
 					<small class="timeago text-muted" title="{../datetimeISO}"></small>

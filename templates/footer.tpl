@@ -4,8 +4,8 @@
 	<div class="topic-search hidden">
 		<div class="btn-group">
 			<button type="button" class="btn btn-default count"></button>
-			<button type="button" class="btn btn-default prev"><i class="fa fa-fw fa-angle-up"></i></button>
-			<button type="button" class="btn btn-default next"><i class="fa fa-fw fa-angle-down"></i></button>
+			<button type="button" class="btn btn-default prev"><i class="mdi fa-fw mdi-chevron-up"></i></button>
+			<button type="button" class="btn btn-default next"><i class="mdi fa-fw mdi-chevron-down"></i></button>
 		</div>
 	</div>
 

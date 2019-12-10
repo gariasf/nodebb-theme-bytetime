@@ -5,7 +5,7 @@
 	<div class="col-sm-8 col-md-9">
 		<h2>
 			<div class="pull-right">
-				<a class="btn btn-link" href="{config.relative_path}/flags"><i class="fa fa-chevron-left"></i> [[flags:back]]</a>
+				<a class="btn btn-link" href="{config.relative_path}/flags"><i class="mdi mdi-chevron-left"></i> [[flags:back]]</a>
 			</div>
 			{target_readable}
 			<small><span class="timeago" title="{datetimeISO}"></span></small>

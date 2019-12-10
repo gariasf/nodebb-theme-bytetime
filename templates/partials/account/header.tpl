@@ -33,7 +33,7 @@
 			<span class="remove"><i class="fa-fw fa-4x mdi mdi-close"></i></span>
 		</div>
 		<div class="save">[[groups:cover-save]] <i class="mdi mdi-floppy fa-fw"></i></div>
-		<div class="indicator">[[groups:cover-saving]] <i class="mdi mdi-refresh fa-fw fa-spin"></i></div>
+		<div class="indicator">[[groups:cover-saving]] <i class="mdi mdi-refresh fa-fw mdi-spin"></i></div>
 		<!-- ENDIF canEdit -->
 		<!-- ENDIF allowCoverPicture -->
 	</div>

@@ -3,7 +3,7 @@
 
 	<div class="content col-xs-12 col-md-10 col-sm-12 depth-{../depth}">
 		<div class="icon pull-left" style="{function.generateCategoryBackground}">
-			<i class="fa fa-fw {../icon}"></i>
+			<i class="mdi fa-fw {../icon}"></i>
 		</div>
 
 		<h2 class="title">

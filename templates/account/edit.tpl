@@ -95,7 +95,7 @@
 								</select>
 								<!-- IF allowMultipleBadges -->
 								<span>[[user:group-order-help]]</span>
-								<i role="button" component="group/order/up" class="fa fa-chevron-up"></i> <i role="button" component="group/order/down" class="fa fa-chevron-down"></i>
+								<i role="button" component="group/order/up" class="mdi mdi-chevron-up"></i> <i role="button" component="group/order/down" class="mdi mdi-chevron-down"></i>
 								<!-- ENDIF -->
 							</div>
 						</div>

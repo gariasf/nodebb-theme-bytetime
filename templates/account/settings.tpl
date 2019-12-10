@@ -213,7 +213,7 @@
 						</select>
 					</div>
 					<div class="btn-group col-xs-3">
-						<button type="button" class="form-control btn btn-sm btn-default" data-action="play"><span class="hidden-xs">[[global:play]] </span><i class="fa fa-play"></i></button>
+						<button type="button" class="form-control btn btn-sm btn-default" data-action="play"><span class="hidden-xs">[[global:play]] </span><i class="mdi mdi-play"></i></button>
 					</div>
 				</div>
 
@@ -229,7 +229,7 @@
 						</select>
 					</div>
 					<div class="btn-group col-xs-3">
-						<button type="button" class="form-control btn btn-sm btn-default" data-action="play"><span class="hidden-xs">[[global:play]] </span><i class="fa fa-play"></i></button>
+						<button type="button" class="form-control btn btn-sm btn-default" data-action="play"><span class="hidden-xs">[[global:play]] </span><i class="mdi mdi-play"></i></button>
 					</div>
 				</div>
 
@@ -244,7 +244,7 @@
 						</select>
 					</div>
 					<div class="btn-group col-xs-3">
-						<button type="button" class="form-control btn btn-sm btn-default" data-action="play"><span class="hidden-xs">[[global:play]] </span><i class="fa fa-play"></i></button>
+						<button type="button" class="form-control btn btn-sm btn-default" data-action="play"><span class="hidden-xs">[[global:play]] </span><i class="mdi mdi-play"></i></button>
 					</div>
 				</div>
 				<!-- ENDIF !config.disableChat -->

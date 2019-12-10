@@ -2,12 +2,12 @@
 	<div component="groups/cover" style="background-image: url({group.cover:url}); background-position: {group.cover:position};">
 		<!-- IF group.isOwner -->
 		<div class="controls">
-			<span class="upload"><i class="fa fa-fw fa-4x fa-upload"></i></span>
-			<span class="resize"><i class="fa fa-fw fa-4x fa-arrows"></i></span>
-			<span class="remove"><i class="fa fa-fw fa-4x fa-times"></i></span>
+			<span class="upload"><i class="mdi fa-fw fa-4x mdi-upload"></i></span>
+			<span class="resize"><i class="mdi fa-fw fa-4x mdi-cursor-move"></i></span>
+			<span class="remove"><i class="mdi fa-fw fa-4x mdi-close"></i></span>
 		</div>
-		<div class="save">[[groups:cover-save]] <i class="fa fa-fw fa-floppy-o"></i></div>
-		<div class="indicator">[[groups:cover-saving]] <i class="fa fa-fw fa-refresh fa-spin"></i></div>
+		<div class="save">[[groups:cover-save]] <i class="mdi fa-fw mdi-floppy"></i></div>
+		<div class="indicator">[[groups:cover-saving]] <i class="mdi fa-fw mdi-refresh mdi-spin"></i></div>
 		<!-- ENDIF group.isOwner -->
 	</div>
 

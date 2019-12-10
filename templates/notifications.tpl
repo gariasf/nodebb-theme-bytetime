@@ -6,7 +6,7 @@
 	<div class="btn-toolbar">
 		<div class="dropdown pull-right">
 			<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="true">
-				<i class="fa fa-eye"></i>
+				<i class="mdi mdi-eye-outline"></i>
 				<span class="caret"></span>
 			</button>
 			<ul class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="dropdownMenu1">
@@ -24,7 +24,7 @@
 				<li role="separator" class="divider"></li>
 				<!-- ELSE -->
 				<li role="presentation" class="category">
-					<a role="menu-item" href="{config.relative_path}/notifications?filter={filters.filter}"><i class="fa fa-fw <!-- IF filters.selected -->fa-check<!-- ENDIF filters.selected -->"></i> {filters.name}</a>
+					<a role="menu-item" href="{config.relative_path}/notifications?filter={filters.filter}"><i class="mdi fa-fw <!-- IF filters.selected -->mdi-check<!-- ENDIF filters.selected -->"></i> {filters.name}</a>
 				</li>
 				<!-- ENDIF filters.separator -->
 				{{{end}}}

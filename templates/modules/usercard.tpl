@@ -11,7 +11,7 @@
 			<span class="usercard-name"><!-- IF fullname -->{fullname}<!-- ELSE -->{username}<!-- ENDIF fullname --></span><br />
 			<span class="usercard-username"><!-- IF !banned -->@{username}<!-- ELSE -->[[user:banned]]<!-- ENDIF !banned --></span>
 			<!-- IF !banned -->
-			<i component="user/status" class="fa fa-circle status {status}" title="[[global:{status}]]"></i>
+			<i component="user/status" class="mdi mdi-circle status {status}" title="[[global:{status}]]"></i>
 			<!-- ENDIF !banned -->
 		</a>
 

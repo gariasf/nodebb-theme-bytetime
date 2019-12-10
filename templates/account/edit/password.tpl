@@ -26,7 +26,7 @@
 		</div>
 		
 		<div class="form-actions">
-			<button id="changePasswordBtn" class="btn btn-primary btn-block"><i class="hide fa fa-spinner fa-spin"></i> [[user:change_password]]</button>
+			<button id="changePasswordBtn" class="btn btn-primary btn-block"><i class="hide mdi mdi-spinner mdi-spin"></i> [[user:change_password]]</button>
 		</div>
 	</form>
 </div>
